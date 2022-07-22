@@ -4,26 +4,19 @@
   "files": [
     {
       "name": "v9fs-4.4.180plus-denverton.tgz",
-      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/v9fs/releases/v9fs-4.4.180plus-denverton.tgz",
-      "sha256": "5d58ae86176b2d80048f8b4e6011e29f45c90ca0a2d9e598780274880a277ab0",
+      "url": "https://gitee.com/gebi1/pocopico-rp-ext/raw/main/v9fs/releases/v9fs-4.4.180plus-denverton.tgz",
+      "sha256": "9b52f7e4bfafc8c734373081b0fa4e1139f1987fc7a3e05eaecbc184dad336cd",
       "packed": true
     },
     {
       "name": "check-v9fs.sh",
-      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/v9fs/src/check-v9fs.sh",
+      "url": "https://gitee.com/gebi1/pocopico-rp-ext/raw/main/v9fs/src/check-v9fs.sh",
       "sha256": "ae70453c9c4eff7da48756eb7ccadadbc95cae1fadd4e3fa6ca25a2105045e6c",
       "packed": false
     }
   ],
 
   "kmods": {
-    "virtio.ko": "",
-    "virtio_ring.ko": "",
-    "virtio_mmio.ko": "",
-    "virtio_pci.ko": "",
-    "virtio_blk.ko": "",
-    "virtio_net.ko": "",
-    "virtio_scsi.ko": "",
     "9pnet.ko": "",
     "9pnet_virtio.ko": "",
     "9p.ko": ""
