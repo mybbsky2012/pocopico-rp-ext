@@ -4,12 +4,13 @@
   "info": {
     "name": "Early telnet start",
     "description": "Simple extension which starts telnet early at boot",
-    "packer_url": "https://gitee.com/gebi1/pocopico-rp-ext/tree/main/early-telnet",
-    "help_url": "https://gitee.com/gebi1/pocopico-rp-ext/tree/main/early-telnet"
+    "packer_url": "https://github.com/pocopico/rp-ext/tree/main/early-telnet",
+    "help_url": "https://github.com/pocopico/rp-ext/early-telnet"
   },
   "releases": {
     "ds3615xs_25556": "https://gitee.com/gebi1/pocopico-rp-ext/raw/main/early-telnet/recipes/universal.json",
     "ds3615xs_41222": "https://gitee.com/gebi1/pocopico-rp-ext/raw/main/early-telnet/recipes/universal.json",
+    "ds3615xs_42951": "https://gitee.com/gebi1/pocopico-rp-ext/raw/main/early-telnet/recipes/universal.json",
     "ds3615xs_42218": "https://gitee.com/gebi1/pocopico-rp-ext/raw/main/early-telnet/recipes/universal.json",
     "ds918p_25556": "https://gitee.com/gebi1/pocopico-rp-ext/raw/main/early-telnet/recipes/universal.json",
     "ds918p_41890": "https://gitee.com/gebi1/pocopico-rp-ext/raw/main/early-telnet/recipes/universal.json",
